@@ -13,7 +13,7 @@
 2. 安装poetry模块（poetry能提供依赖模块下载和虚拟环境运行）
 3. 运行：`poetry run python main.py` 即可启动Bot
 
-##### To do
+##### To do：
 
 1. 增加数据库服务，记录简单问答和本地图片
 2. 抽卡模拟（？）
