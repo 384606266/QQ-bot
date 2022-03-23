@@ -12,7 +12,7 @@
 
 #### 部署方法：
 
-1. 安装Mirai 
+1. 安装[Mirai库](https://github.com/mamoe/mirai) 
 
 2. 配置Mirai Http模块
 
