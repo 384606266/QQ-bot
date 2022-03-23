@@ -1,11 +1,5 @@
 # 基于Mirai-ariadne的QQ-Bot
 
-#### 效果展示：
-
-<img src=".\src\imgs\show_img1.png" style="zoom:10%;" />
-
-<img src=".\src\imgs\show_img2.png" style="zoom:10%;" />
-
 #### 目前主要功能：
 
 * 每日闹钟 `9:30` 和 `9:45`
@@ -61,6 +55,14 @@
    * 将 `main.py` 文件中的 `app` 信息改写为自己的信息
 
 5. 运行：`poetry run python main.py` 即可启动Bot
+
+
+#### 效果展示：
+
+<img src=".\src\imgs\show_img1.png" style="zoom:10%;" />
+
+<img src=".\src\imgs\show_img2.png" style="zoom:10%;" />
+
 
 #### Todo：
 
