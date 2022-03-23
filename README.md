@@ -72,11 +72,11 @@
 
 #### 参考：
 
-[](https://github.com/mamoe/mirai)]:**Mirai库**
+(https://github.com/mamoe/mirai)]:**Mirai库**
 
-[](https://github.com/GraiaProject/Ariadne)]: **Ariadne框架**
+(https://github.com/GraiaProject/Ariadne)]: **Ariadne框架**
 
-[](https://github.com/djkcyl/ABot-Graia)]: **ABot**
+(https://github.com/djkcyl/ABot-Graia)]: **ABot**
 
 
 
