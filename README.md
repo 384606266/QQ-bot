@@ -2,9 +2,9 @@
 
 #### 效果展示：
 
-<img src=".\src\imgs\show_img1.png" style="zoom:30%;" />
+<img src=".\src\imgs\show_img1.png" style="zoom:10%;" />
 
-<img src=".\src\imgs\show_img2.png" style="zoom:30%;" />
+<img src=".\src\imgs\show_img2.png" style="zoom:10%;" />
 
 #### 目前主要功能：
 
