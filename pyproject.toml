@@ -10,6 +10,10 @@ graia-ariadne = {extras = ["full"], version = "^0.5.3"}
 graiax-silkcoder = {extras = ["ffmpeg"], version = "^0.1.6"}
 aiohttp = {extras = ["speedups"], version = "^3.8.1"}
 httpx = "^0.22.0"
+requests = "^2.27.1"
+ffmpy = "^0.3.0"
+graia-saya = "0.0.14"
+numpy = "^1.22.3"
 
 [tool.poetry.dev-dependencies]
 
