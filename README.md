@@ -72,18 +72,11 @@
 
 #### 参考：
 
-[Mirai库](https://github.com/mamoe/mirai):**Mirai库**
+[Mirai库](https://github.com/mamoe/mirai)
 
-[Ariadne框架](https://github.com/GraiaProject/Ariadne): **Ariadne框架**
+[Ariadne框架](https://github.com/GraiaProject/Ariadne)
 
-[Mirai库](https://github.com/djkcyl/ABot-Graia): **ABot**
-
-
-
-##### To do：
-
-1. 增加数据库服务，记录简单问答和本地图片
-2. 抽卡模拟（？）
+[Mirai库](https://github.com/djkcyl/ABot-Graia)
 
 
 
